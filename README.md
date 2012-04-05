@@ -10,3 +10,7 @@ Just link plugin javascript and css files to your page and add this html5 data a
     data-type="color"
 
 to any input on the page and it will show you colorpicker on field focus.
+
+### Demo
+
+Live demo available [here](http://kubyshkin.ru/samples/colorpicker/).
